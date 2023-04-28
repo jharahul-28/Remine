@@ -211,15 +211,19 @@ html {
 
     .nav a {
         margin-left: 1rem;
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .nav img {
-        height: 2rem;
+        height: 3rem;
     }
 
     .hero-section {
         margin: 2rem 1rem;
+    }
+
+    .about-us p:nth-child(2) {
+        font-size: 14px;
     }
 
     .title {
